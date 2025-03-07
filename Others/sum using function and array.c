@@ -4,7 +4,7 @@ int main() {
 	int result;
 	printf("\nGoing to calculate the sum of two numbers:");
 	result = sum();
-	printf(" The Sum of %d & n%d = %d",a[0],a[1],result);
+	printf(" The Sum of %d & n%d = %d",result);
 }
 int sum() {
 	int i,a[2];
