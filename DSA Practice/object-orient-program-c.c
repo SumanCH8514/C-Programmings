@@ -29,7 +29,6 @@ int main()
     initilization(&r, l, b);
     int a = area(r);
     int p = peri(r);
-    printf("Area of Ractangle: %d\nBreadth of ractangle: %d", a, p);
+    printf("Area of Ractangle: %d\nPerimeter of ractangle: %d", a, p);
     return 0;
 }
-
